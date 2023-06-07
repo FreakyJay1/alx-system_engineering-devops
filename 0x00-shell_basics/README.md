@@ -12,4 +12,5 @@
 11-lists is added and in it is ls -al . .. /boot
 12-file_type is added and in it is /tmp/iamafile
 13-symbolic_link is added and in it is ln -s /bin/ls __ls_
-14-copy_html is added and in it is cp -un *.html ../_
+14-copy_html is added and in it is cp -un *.html ../
+100-lets_move is added_
