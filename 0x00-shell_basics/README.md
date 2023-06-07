@@ -4,3 +4,4 @@
 3-listfiles is added and in it is ls -l
 4-listmorefiles is added and in it is ls -al
 5-listfilesdigitonly is added and in it is ls -lna
+6-firstdirectory is added and it is mkdir /tmp/my_first_directory
