@@ -10,3 +10,4 @@
 9-firstdirdeletion is added and in it is rm -rf /tmp/my_first_directory/
 10-back is added and in it is cd -
 11-lists is added and in it is ls -al . .. /boot
+12-file_type is added and in it is /tmp/iamafile
