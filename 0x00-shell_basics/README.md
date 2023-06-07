@@ -8,3 +8,4 @@
 7-movethatfile is added and in it is mv /tmp/betty /tmp/my_first_directory/
 8-firstdelete is added and in it is rm /tmp/my_first_directory/betty
 9-firstdirdeletion is added and in it is rm -rf /tmp/my_first_directory/
+10-back is added and int it is cd -
