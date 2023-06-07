@@ -5,4 +5,5 @@
 4-listmorefiles is added and in it is ls -al
 5-listfilesdigitonly is added and in it is ls -lna
 6-firstdirectory is added and in it is mkdir /tmp/my_first_directory
-7-movethatfile and in it is mv /tmp/betty /tmp/my_first_directory/
+7-movethatfile is added and in it is mv /tmp/betty /tmp/my_first_directory/
+8-firstdelete is added and in it is rm /tmp/my_first_directory/betty
